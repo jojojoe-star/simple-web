@@ -6,7 +6,7 @@ Code in the main brach.
 
 Project for CT870 Internet Programming
 
-A simple Webpage built from scratch. 
+A simple fully responsive webpage built from scratch. 
 
 Language used: HTML, CSS, Javascript. 
 
