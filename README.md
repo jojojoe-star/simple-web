@@ -6,7 +6,7 @@ Code in brach main
 
 Project for CT870 Internet Programming
 
-A simple Webpage built from scrath. 
+A simple Webpage built from scratch. 
 
 Language used: HTML, CSS, Javascript. 
 
