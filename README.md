@@ -4,7 +4,7 @@ Project for CT870 Internet Programming
 
 https://assignment4-3ef19.web.app
 
-A simple Webpage built from scratch. 
+A simple fully responsive webpage built from scratch. 
 
 Language used: HTML, CSS, Javascript. 
 
