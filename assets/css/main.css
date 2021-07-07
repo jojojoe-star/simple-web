@@ -122,7 +122,8 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("img src="pic01.jpg");
+	  background-image: url("/Users/bess/Desktop/new/public/images/pic01.jpg");
+		background-color: #CCE8F4;
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -130,14 +131,14 @@
 		position: relative;
 		padding: 12em 0;
 		margin: 2em 0 0 0;
+
 	}
 
 
 /* Main */
-
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #f7f7f7;
 		padding: 4em 0 4em 0;
 	}
 
@@ -147,12 +148,11 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.1;
 		}
 
 		#main .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
+			background: #f7f7f7;
 		}
