@@ -2,7 +2,7 @@
 
 https://assignment4-3ef19.web.app
 
-Code in brach main 
+Code in the main brach.
 
 Project for CT870 Internet Programming
 
